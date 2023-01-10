@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\bin\Debug\net5.0\P.07. Hot Potato.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\bin\Debug\net5.0\P.07. Hot Potato.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\bin\Debug\net5.0\P.07. Hot Potato.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\bin\Debug\net5.0\P.07. Hot Potato.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\bin\Debug\net5.0\P.07. Hot Potato.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\bin\Debug\net5.0\P.07. Hot Potato.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\P.07. Hot Potato.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\P.07. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\P.07. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\P.07. Hot Potato.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\P.07. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\P.07. Hot Potato.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\refint\P.07. Hot Potato.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\P.07. Hot Potato.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\P.07. Hot Potato.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.07. Hot Potato\obj\Debug\net5.0\ref\P.07. Hot Potato.dll

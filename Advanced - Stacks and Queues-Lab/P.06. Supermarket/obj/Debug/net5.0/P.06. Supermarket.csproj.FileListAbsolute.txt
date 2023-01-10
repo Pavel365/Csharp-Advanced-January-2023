@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\bin\Debug\net5.0\P.06. Supermarket.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\bin\Debug\net5.0\P.06. Supermarket.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\bin\Debug\net5.0\P.06. Supermarket.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\bin\Debug\net5.0\P.06. Supermarket.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\bin\Debug\net5.0\P.06. Supermarket.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\bin\Debug\net5.0\P.06. Supermarket.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\P.06. Supermarket.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\P.06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\P.06. Supermarket.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\P.06. Supermarket.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\P.06. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\P.06. Supermarket.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\refint\P.06. Supermarket.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\P.06. Supermarket.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\P.06. Supermarket.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Lab\P.06. Supermarket\obj\Debug\net5.0\ref\P.06. Supermarket.dll
