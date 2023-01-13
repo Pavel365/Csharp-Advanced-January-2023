@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\bin\Debug\net5.0\P.01. Sum Matrix Elements.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\bin\Debug\net5.0\P.01. Sum Matrix Elements.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\bin\Debug\net5.0\P.01. Sum Matrix Elements.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\bin\Debug\net5.0\P.01. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\bin\Debug\net5.0\P.01. Sum Matrix Elements.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\bin\Debug\net5.0\P.01. Sum Matrix Elements.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\P.01. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\P.01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\P.01. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\P.01. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\P.01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\P.01. Sum Matrix Elements.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\refint\P.01. Sum Matrix Elements.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\P.01. Sum Matrix Elements.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\P.01. Sum Matrix Elements.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.01. Sum Matrix Elements\obj\Debug\net5.0\ref\P.01. Sum Matrix Elements.dll

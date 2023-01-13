@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\bin\Debug\net5.0\P.05. Square With Maximum Sum.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\bin\Debug\net5.0\P.05. Square With Maximum Sum.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\bin\Debug\net5.0\P.05. Square With Maximum Sum.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\bin\Debug\net5.0\P.05. Square With Maximum Sum.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\bin\Debug\net5.0\P.05. Square With Maximum Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\bin\Debug\net5.0\P.05. Square With Maximum Sum.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\P.05. Square With Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\P.05. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\P.05. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\P.05. Square With Maximum Sum.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\P.05. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\P.05. Square With Maximum Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\refint\P.05. Square With Maximum Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\P.05. Square With Maximum Sum.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\P.05. Square With Maximum Sum.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.05. Square With Maximum Sum\obj\Debug\net5.0\ref\P.05. Square With Maximum Sum.dll

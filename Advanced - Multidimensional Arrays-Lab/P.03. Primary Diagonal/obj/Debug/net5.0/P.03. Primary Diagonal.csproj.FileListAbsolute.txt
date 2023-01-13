@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\bin\Debug\net5.0\P.03. Primary Diagonal.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\bin\Debug\net5.0\P.03. Primary Diagonal.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\bin\Debug\net5.0\P.03. Primary Diagonal.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\bin\Debug\net5.0\P.03. Primary Diagonal.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\bin\Debug\net5.0\P.03. Primary Diagonal.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\bin\Debug\net5.0\P.03. Primary Diagonal.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\P.03. Primary Diagonal.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\P.03. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\P.03. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\P.03. Primary Diagonal.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\P.03. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\P.03. Primary Diagonal.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\refint\P.03. Primary Diagonal.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\P.03. Primary Diagonal.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\P.03. Primary Diagonal.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.03. Primary Diagonal\obj\Debug\net5.0\ref\P.03. Primary Diagonal.dll

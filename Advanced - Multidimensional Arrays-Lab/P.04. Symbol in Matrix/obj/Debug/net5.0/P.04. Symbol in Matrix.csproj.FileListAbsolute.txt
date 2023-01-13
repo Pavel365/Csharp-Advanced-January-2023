@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\bin\Debug\net5.0\P.04. Symbol in Matrix.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\bin\Debug\net5.0\P.04. Symbol in Matrix.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\bin\Debug\net5.0\P.04. Symbol in Matrix.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\bin\Debug\net5.0\P.04. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\bin\Debug\net5.0\P.04. Symbol in Matrix.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\bin\Debug\net5.0\P.04. Symbol in Matrix.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\P.04. Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\P.04. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\P.04. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\P.04. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\P.04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\P.04. Symbol in Matrix.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\refint\P.04. Symbol in Matrix.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\P.04. Symbol in Matrix.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\P.04. Symbol in Matrix.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.04. Symbol in Matrix\obj\Debug\net5.0\ref\P.04. Symbol in Matrix.dll

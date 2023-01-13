@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\bin\Debug\net5.0\P.07. Pascal Triangle.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\bin\Debug\net5.0\P.07. Pascal Triangle.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\bin\Debug\net5.0\P.07. Pascal Triangle.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\bin\Debug\net5.0\P.07. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\bin\Debug\net5.0\P.07. Pascal Triangle.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\bin\Debug\net5.0\P.07. Pascal Triangle.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\P.07. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\P.07. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\P.07. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\P.07. Pascal Triangle.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\P.07. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\P.07. Pascal Triangle.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\refint\P.07. Pascal Triangle.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\P.07. Pascal Triangle.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\P.07. Pascal Triangle.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Lab\P.07. Pascal Triangle\obj\Debug\net5.0\ref\P.07. Pascal Triangle.dll
