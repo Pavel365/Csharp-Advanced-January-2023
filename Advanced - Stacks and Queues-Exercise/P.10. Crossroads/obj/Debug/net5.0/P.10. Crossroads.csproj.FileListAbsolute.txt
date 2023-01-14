@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\bin\Debug\net5.0\P.10. Crossroads.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\bin\Debug\net5.0\P.10. Crossroads.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\bin\Debug\net5.0\P.10. Crossroads.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\bin\Debug\net5.0\P.10. Crossroads.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\bin\Debug\net5.0\P.10. Crossroads.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\bin\Debug\net5.0\P.10. Crossroads.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\P.10. Crossroads.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\P.10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\P.10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\P.10. Crossroads.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\P.10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\P.10. Crossroads.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\refint\P.10. Crossroads.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\P.10. Crossroads.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\P.10. Crossroads.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.10. Crossroads\obj\Debug\net5.0\ref\P.10. Crossroads.dll

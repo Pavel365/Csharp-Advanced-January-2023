@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\bin\Debug\net5.0\P.01. Basic Stack Operations.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\bin\Debug\net5.0\P.01. Basic Stack Operations.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\bin\Debug\net5.0\P.01. Basic Stack Operations.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\bin\Debug\net5.0\P.01. Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\bin\Debug\net5.0\P.01. Basic Stack Operations.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\bin\Debug\net5.0\P.01. Basic Stack Operations.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\P.01. Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\P.01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\P.01. Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\P.01. Basic Stack Operations.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\P.01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\P.01. Basic Stack Operations.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\refint\P.01. Basic Stack Operations.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\P.01. Basic Stack Operations.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\P.01. Basic Stack Operations.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.01. Basic Stack Operations\obj\Debug\net5.0\ref\P.01. Basic Stack Operations.dll

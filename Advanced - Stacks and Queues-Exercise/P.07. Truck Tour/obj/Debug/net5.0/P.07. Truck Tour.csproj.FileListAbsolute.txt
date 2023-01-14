@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\bin\Debug\net5.0\P.07. Truck Tour.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\bin\Debug\net5.0\P.07. Truck Tour.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\bin\Debug\net5.0\P.07. Truck Tour.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\bin\Debug\net5.0\P.07. Truck Tour.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\bin\Debug\net5.0\P.07. Truck Tour.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\bin\Debug\net5.0\P.07. Truck Tour.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\P.07. Truck Tour.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\P.07. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\P.07. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\P.07. Truck Tour.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\P.07. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\P.07. Truck Tour.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\refint\P.07. Truck Tour.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\P.07. Truck Tour.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\P.07. Truck Tour.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.07. Truck Tour\obj\Debug\net5.0\ref\P.07. Truck Tour.dll

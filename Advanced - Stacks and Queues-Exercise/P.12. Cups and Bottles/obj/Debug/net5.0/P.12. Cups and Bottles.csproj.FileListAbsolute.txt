@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\bin\Debug\net5.0\P.12. Cups and Bottles.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\bin\Debug\net5.0\P.12. Cups and Bottles.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\bin\Debug\net5.0\P.12. Cups and Bottles.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\bin\Debug\net5.0\P.12. Cups and Bottles.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\bin\Debug\net5.0\P.12. Cups and Bottles.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\bin\Debug\net5.0\P.12. Cups and Bottles.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\P.12. Cups and Bottles.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\P.12. Cups and Bottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\P.12. Cups and Bottles.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\P.12. Cups and Bottles.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\P.12. Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\P.12. Cups and Bottles.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\refint\P.12. Cups and Bottles.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\P.12. Cups and Bottles.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\P.12. Cups and Bottles.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.12. Cups and Bottles\obj\Debug\net5.0\ref\P.12. Cups and Bottles.dll

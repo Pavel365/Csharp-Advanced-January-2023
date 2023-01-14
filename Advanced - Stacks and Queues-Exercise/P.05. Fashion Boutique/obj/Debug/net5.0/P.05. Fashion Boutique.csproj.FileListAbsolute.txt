@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\bin\Debug\net5.0\P.05. Fashion Boutique.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\bin\Debug\net5.0\P.05. Fashion Boutique.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\bin\Debug\net5.0\P.05. Fashion Boutique.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\bin\Debug\net5.0\P.05. Fashion Boutique.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\bin\Debug\net5.0\P.05. Fashion Boutique.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\bin\Debug\net5.0\P.05. Fashion Boutique.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\P.05. Fashion Boutique.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\P.05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\P.05. Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\P.05. Fashion Boutique.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\P.05. Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\P.05. Fashion Boutique.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\refint\P.05. Fashion Boutique.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\P.05. Fashion Boutique.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\P.05. Fashion Boutique.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.05. Fashion Boutique\obj\Debug\net5.0\ref\P.05. Fashion Boutique.dll

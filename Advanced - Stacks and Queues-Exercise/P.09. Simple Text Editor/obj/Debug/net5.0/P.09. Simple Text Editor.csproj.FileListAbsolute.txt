@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\bin\Debug\net5.0\P.09. Simple Text Editor.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\bin\Debug\net5.0\P.09. Simple Text Editor.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\bin\Debug\net5.0\P.09. Simple Text Editor.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\bin\Debug\net5.0\P.09. Simple Text Editor.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\bin\Debug\net5.0\P.09. Simple Text Editor.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\bin\Debug\net5.0\P.09. Simple Text Editor.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\P.09. Simple Text Editor.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\P.09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\P.09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\P.09. Simple Text Editor.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\P.09. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\P.09. Simple Text Editor.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\refint\P.09. Simple Text Editor.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\P.09. Simple Text Editor.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\P.09. Simple Text Editor.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.09. Simple Text Editor\obj\Debug\net5.0\ref\P.09. Simple Text Editor.dll

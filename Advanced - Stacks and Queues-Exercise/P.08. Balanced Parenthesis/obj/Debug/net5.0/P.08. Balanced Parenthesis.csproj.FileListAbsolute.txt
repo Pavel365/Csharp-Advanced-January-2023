@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\bin\Debug\net5.0\P.08. Balanced Parenthesis.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\bin\Debug\net5.0\P.08. Balanced Parenthesis.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\bin\Debug\net5.0\P.08. Balanced Parenthesis.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\bin\Debug\net5.0\P.08. Balanced Parenthesis.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\bin\Debug\net5.0\P.08. Balanced Parenthesis.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\bin\Debug\net5.0\P.08. Balanced Parenthesis.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\P.08. Balanced Parenthesis.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\P.08. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\P.08. Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\P.08. Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\P.08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\P.08. Balanced Parenthesis.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\refint\P.08. Balanced Parenthesis.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\P.08. Balanced Parenthesis.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\P.08. Balanced Parenthesis.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Stacks and Queues-Exercise\P.08. Balanced Parenthesis\obj\Debug\net5.0\ref\P.08. Balanced Parenthesis.dll
