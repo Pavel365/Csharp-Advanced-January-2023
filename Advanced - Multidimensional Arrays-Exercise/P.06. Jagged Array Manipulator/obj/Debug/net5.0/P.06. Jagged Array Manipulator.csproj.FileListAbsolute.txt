@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\bin\Debug\net5.0\P.06. Jagged Array Manipulator.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\bin\Debug\net5.0\P.06. Jagged Array Manipulator.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\bin\Debug\net5.0\P.06. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\bin\Debug\net5.0\P.06. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\bin\Debug\net5.0\P.06. Jagged Array Manipulator.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\bin\Debug\net5.0\P.06. Jagged Array Manipulator.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\P.06. Jagged Array Manipulator.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\P.06. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\P.06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\P.06. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\P.06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\P.06. Jagged Array Manipulator.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\refint\P.06. Jagged Array Manipulator.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\P.06. Jagged Array Manipulator.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\P.06. Jagged Array Manipulator.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.06. Jagged Array Manipulator\obj\Debug\net5.0\ref\P.06. Jagged Array Manipulator.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\bin\Debug\net5.0\P.09. Miner.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\bin\Debug\net5.0\P.09. Miner.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\bin\Debug\net5.0\P.09. Miner.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\bin\Debug\net5.0\P.09. Miner.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\bin\Debug\net5.0\P.09. Miner.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\bin\Debug\net5.0\P.09. Miner.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\P.09. Miner.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\P.09. Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\P.09. Miner.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\P.09. Miner.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\P.09. Miner.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\P.09. Miner.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\refint\P.09. Miner.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\P.09. Miner.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\P.09. Miner.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.09. Miner\obj\Debug\net5.0\ref\P.09. Miner.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\bin\Debug\net5.0\P.07. Knight Game.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\bin\Debug\net5.0\P.07. Knight Game.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\bin\Debug\net5.0\P.07. Knight Game.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\bin\Debug\net5.0\P.07. Knight Game.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\bin\Debug\net5.0\P.07. Knight Game.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\bin\Debug\net5.0\P.07. Knight Game.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\P.07. Knight Game.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\P.07. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\P.07. Knight Game.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\P.07. Knight Game.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\P.07. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\P.07. Knight Game.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\refint\P.07. Knight Game.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\P.07. Knight Game.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\P.07. Knight Game.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.07. Knight Game\obj\Debug\net5.0\ref\P.07. Knight Game.dll

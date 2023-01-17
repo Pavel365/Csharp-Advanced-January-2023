@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\bin\Debug\net5.0\P.10. RadioactMutVampBun.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\bin\Debug\net5.0\P.10. RadioactMutVampBun.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\bin\Debug\net5.0\P.10. RadioactMutVampBun.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\bin\Debug\net5.0\P.10. RadioactMutVampBun.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\bin\Debug\net5.0\P.10. RadioactMutVampBun.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\bin\Debug\net5.0\P.10. RadioactMutVampBun.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\P.10. RadioactMutVampBun.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\P.10. RadioactMutVampBun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\P.10. RadioactMutVampBun.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\P.10. RadioactMutVampBun.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\P.10. RadioactMutVampBun.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\P.10. RadioactMutVampBun.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\refint\P.10. RadioactMutVampBun.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\P.10. RadioactMutVampBun.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\P.10. RadioactMutVampBun.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.10. RadioactMutVampBun\obj\Debug\net5.0\ref\P.10. RadioactMutVampBun.dll

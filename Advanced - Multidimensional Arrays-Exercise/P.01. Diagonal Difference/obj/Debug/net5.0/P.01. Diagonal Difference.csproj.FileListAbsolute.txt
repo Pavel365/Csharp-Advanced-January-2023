@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\bin\Debug\net5.0\P.01. Diagonal Difference.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\bin\Debug\net5.0\P.01. Diagonal Difference.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\bin\Debug\net5.0\P.01. Diagonal Difference.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\bin\Debug\net5.0\P.01. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\bin\Debug\net5.0\P.01. Diagonal Difference.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\bin\Debug\net5.0\P.01. Diagonal Difference.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\P.01. Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\P.01. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\P.01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\P.01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\P.01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\P.01. Diagonal Difference.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\refint\P.01. Diagonal Difference.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\P.01. Diagonal Difference.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\P.01. Diagonal Difference.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.01. Diagonal Difference\obj\Debug\net5.0\ref\P.01. Diagonal Difference.dll

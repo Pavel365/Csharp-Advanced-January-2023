@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\bin\Debug\net5.0\P.03. Maximal Sum.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\bin\Debug\net5.0\P.03. Maximal Sum.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\bin\Debug\net5.0\P.03. Maximal Sum.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\bin\Debug\net5.0\P.03. Maximal Sum.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\bin\Debug\net5.0\P.03. Maximal Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\bin\Debug\net5.0\P.03. Maximal Sum.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\P.03. Maximal Sum.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\P.03. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\P.03. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\P.03. Maximal Sum.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\P.03. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\P.03. Maximal Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\refint\P.03. Maximal Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\P.03. Maximal Sum.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\P.03. Maximal Sum.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Multidimensional Arrays-Exercise\P.03. Maximal Sum\obj\Debug\net5.0\ref\P.03. Maximal Sum.dll
