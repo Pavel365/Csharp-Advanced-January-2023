@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\bin\Debug\net5.0\P.07. Parking Lot.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\bin\Debug\net5.0\P.07. Parking Lot.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\bin\Debug\net5.0\P.07. Parking Lot.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\bin\Debug\net5.0\P.07. Parking Lot.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\bin\Debug\net5.0\P.07. Parking Lot.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\bin\Debug\net5.0\P.07. Parking Lot.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\P.07. Parking Lot.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\P.07. Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\P.07. Parking Lot.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\P.07. Parking Lot.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\P.07. Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\P.07. Parking Lot.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\refint\P.07. Parking Lot.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\P.07. Parking Lot.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\P.07. Parking Lot.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.07. Parking Lot\obj\Debug\net5.0\ref\P.07. Parking Lot.dll

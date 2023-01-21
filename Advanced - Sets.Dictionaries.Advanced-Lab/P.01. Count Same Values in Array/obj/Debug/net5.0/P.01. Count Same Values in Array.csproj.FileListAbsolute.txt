@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\bin\Debug\net5.0\P.01. Count Same Values in Array.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\bin\Debug\net5.0\P.01. Count Same Values in Array.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\bin\Debug\net5.0\P.01. Count Same Values in Array.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\bin\Debug\net5.0\P.01. Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\bin\Debug\net5.0\P.01. Count Same Values in Array.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\bin\Debug\net5.0\P.01. Count Same Values in Array.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\P.01. Count Same Values in Array.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\P.01. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\P.01. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\P.01. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\P.01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\P.01. Count Same Values in Array.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\refint\P.01. Count Same Values in Array.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\P.01. Count Same Values in Array.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\P.01. Count Same Values in Array.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.01. Count Same Values in Array\obj\Debug\net5.0\ref\P.01. Count Same Values in Array.dll

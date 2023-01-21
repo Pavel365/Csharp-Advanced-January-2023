@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\bin\Debug\net5.0\P.05. Cities Continent Country.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\bin\Debug\net5.0\P.05. Cities Continent Country.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\bin\Debug\net5.0\P.05. Cities Continent Country.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\bin\Debug\net5.0\P.05. Cities Continent Country.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\bin\Debug\net5.0\P.05. Cities Continent Country.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\bin\Debug\net5.0\P.05. Cities Continent Country.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\P.05. Cities Continent Country.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\P.05. Cities Continent Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\P.05. Cities Continent Country.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\P.05. Cities Continent Country.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\P.05. Cities Continent Country.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\P.05. Cities Continent Country.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\refint\P.05. Cities Continent Country.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\P.05. Cities Continent Country.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\P.05. Cities Continent Country.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Lab\P.05. Cities Continent Country\obj\Debug\net5.0\ref\P.05. Cities Continent Country.dll
