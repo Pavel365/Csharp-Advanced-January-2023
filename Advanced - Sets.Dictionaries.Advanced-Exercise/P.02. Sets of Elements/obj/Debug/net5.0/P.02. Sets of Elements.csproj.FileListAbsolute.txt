@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\bin\Debug\net5.0\P.02. Sets of Elements.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\bin\Debug\net5.0\P.02. Sets of Elements.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\bin\Debug\net5.0\P.02. Sets of Elements.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\bin\Debug\net5.0\P.02. Sets of Elements.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\bin\Debug\net5.0\P.02. Sets of Elements.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\bin\Debug\net5.0\P.02. Sets of Elements.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\P.02. Sets of Elements.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\P.02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\P.02. Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\P.02. Sets of Elements.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\P.02. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\P.02. Sets of Elements.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\refint\P.02. Sets of Elements.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\P.02. Sets of Elements.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\P.02. Sets of Elements.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.02. Sets of Elements\obj\Debug\net5.0\ref\P.02. Sets of Elements.dll

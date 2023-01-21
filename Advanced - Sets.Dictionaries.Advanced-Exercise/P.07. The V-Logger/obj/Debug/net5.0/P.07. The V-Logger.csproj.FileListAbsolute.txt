@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\bin\Debug\net5.0\P.07. The V-Logger.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\bin\Debug\net5.0\P.07. The V-Logger.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\bin\Debug\net5.0\P.07. The V-Logger.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\bin\Debug\net5.0\P.07. The V-Logger.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\bin\Debug\net5.0\P.07. The V-Logger.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\bin\Debug\net5.0\P.07. The V-Logger.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\P.07. The V-Logger.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\P.07. The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\P.07. The V-Logger.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\P.07. The V-Logger.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\P.07. The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\P.07. The V-Logger.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\refint\P.07. The V-Logger.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\P.07. The V-Logger.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\P.07. The V-Logger.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.07. The V-Logger\obj\Debug\net5.0\ref\P.07. The V-Logger.dll

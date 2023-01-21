@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\bin\Debug\net5.0\P.09. SoftUni Exam Results.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\bin\Debug\net5.0\P.09. SoftUni Exam Results.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\bin\Debug\net5.0\P.09. SoftUni Exam Results.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\bin\Debug\net5.0\P.09. SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\bin\Debug\net5.0\P.09. SoftUni Exam Results.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\bin\Debug\net5.0\P.09. SoftUni Exam Results.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\P.09. SoftUni Exam Results.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\P.09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\P.09. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\P.09. SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\P.09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\P.09. SoftUni Exam Results.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\refint\P.09. SoftUni Exam Results.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\P.09. SoftUni Exam Results.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\P.09. SoftUni Exam Results.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.09. SoftUni Exam Results\obj\Debug\net5.0\ref\P.09. SoftUni Exam Results.dll

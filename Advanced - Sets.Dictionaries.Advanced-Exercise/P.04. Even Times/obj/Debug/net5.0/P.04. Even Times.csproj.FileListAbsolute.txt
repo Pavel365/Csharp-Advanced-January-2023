@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\bin\Debug\net5.0\P.04. Even Times.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\bin\Debug\net5.0\P.04. Even Times.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\bin\Debug\net5.0\P.04. Even Times.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\bin\Debug\net5.0\P.04. Even Times.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\bin\Debug\net5.0\P.04. Even Times.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\bin\Debug\net5.0\P.04. Even Times.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\P.04. Even Times.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\P.04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\P.04. Even Times.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\P.04. Even Times.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\P.04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\P.04. Even Times.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\refint\P.04. Even Times.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\P.04. Even Times.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\P.04. Even Times.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.04. Even Times\obj\Debug\net5.0\ref\P.04. Even Times.dll

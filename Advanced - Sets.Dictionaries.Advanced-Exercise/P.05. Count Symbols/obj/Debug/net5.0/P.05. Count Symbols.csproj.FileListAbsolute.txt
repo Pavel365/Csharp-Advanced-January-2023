@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\bin\Debug\net5.0\P.05. Count Symbols.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\bin\Debug\net5.0\P.05. Count Symbols.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\bin\Debug\net5.0\P.05. Count Symbols.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\bin\Debug\net5.0\P.05. Count Symbols.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\bin\Debug\net5.0\P.05. Count Symbols.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\bin\Debug\net5.0\P.05. Count Symbols.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\P.05. Count Symbols.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\P.05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\P.05. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\P.05. Count Symbols.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\P.05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\P.05. Count Symbols.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\refint\P.05. Count Symbols.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\P.05. Count Symbols.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\P.05. Count Symbols.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.05. Count Symbols\obj\Debug\net5.0\ref\P.05. Count Symbols.dll

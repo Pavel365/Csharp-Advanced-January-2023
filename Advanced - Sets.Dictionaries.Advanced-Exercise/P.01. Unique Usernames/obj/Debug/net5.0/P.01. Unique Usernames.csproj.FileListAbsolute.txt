@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\bin\Debug\net5.0\P.01. Unique Usernames.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\bin\Debug\net5.0\P.01. Unique Usernames.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\bin\Debug\net5.0\P.01. Unique Usernames.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\bin\Debug\net5.0\P.01. Unique Usernames.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\bin\Debug\net5.0\P.01. Unique Usernames.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\bin\Debug\net5.0\P.01. Unique Usernames.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\P.01. Unique Usernames.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\P.01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\P.01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\P.01. Unique Usernames.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\P.01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\P.01. Unique Usernames.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\refint\P.01. Unique Usernames.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\P.01. Unique Usernames.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\P.01. Unique Usernames.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.01. Unique Usernames\obj\Debug\net5.0\ref\P.01. Unique Usernames.dll

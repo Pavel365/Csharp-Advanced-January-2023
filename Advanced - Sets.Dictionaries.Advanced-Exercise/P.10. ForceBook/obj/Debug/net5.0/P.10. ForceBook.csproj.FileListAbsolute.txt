@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\bin\Debug\net5.0\P.10. ForceBook.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\bin\Debug\net5.0\P.10. ForceBook.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\bin\Debug\net5.0\P.10. ForceBook.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\bin\Debug\net5.0\P.10. ForceBook.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\bin\Debug\net5.0\P.10. ForceBook.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\bin\Debug\net5.0\P.10. ForceBook.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\P.10. ForceBook.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\P.10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\P.10. ForceBook.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\P.10. ForceBook.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\P.10. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\P.10. ForceBook.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\refint\P.10. ForceBook.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\P.10. ForceBook.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\P.10. ForceBook.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Sets.Dictionaries.Advanced-Exercise\P.10. ForceBook\obj\Debug\net5.0\ref\P.10. ForceBook.dll
