@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.genruntimeconfig.cache

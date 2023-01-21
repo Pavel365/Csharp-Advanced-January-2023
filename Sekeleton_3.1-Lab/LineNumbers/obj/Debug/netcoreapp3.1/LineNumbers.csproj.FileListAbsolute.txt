@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

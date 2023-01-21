@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache
