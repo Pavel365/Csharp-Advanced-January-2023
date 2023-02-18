@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\bin\Debug\net5.0\ClimbThePeaks.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\bin\Debug\net5.0\ClimbThePeaks.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\bin\Debug\net5.0\ClimbThePeaks.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\bin\Debug\net5.0\ClimbThePeaks.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\bin\Debug\net5.0\ClimbThePeaks.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\bin\Debug\net5.0\ClimbThePeaks.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ClimbThePeaks.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ClimbThePeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ClimbThePeaks.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ClimbThePeaks.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ClimbThePeaks.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ClimbThePeaks.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\refint\ClimbThePeaks.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ClimbThePeaks.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ClimbThePeaks.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\ClimbThePeaks\obj\Debug\net5.0\ref\ClimbThePeaks.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\bin\Debug\net5.0\Barista Contest.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\bin\Debug\net5.0\Barista Contest.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\bin\Debug\net5.0\Barista Contest.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\bin\Debug\net5.0\Barista Contest.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\bin\Debug\net5.0\Barista Contest.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\bin\Debug\net5.0\Barista Contest.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\Barista Contest.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\Barista Contest.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\Barista Contest.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\Barista Contest.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\Barista Contest.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\refint\Barista Contest.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\Barista Contest.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\Barista Contest.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Barista Contest\obj\Debug\net5.0\ref\Barista Contest.dll

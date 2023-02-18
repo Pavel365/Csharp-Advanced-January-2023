@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\bin\Debug\net5.0\Energy Drinks.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\bin\Debug\net5.0\Energy Drinks.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\bin\Debug\net5.0\Energy Drinks.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\bin\Debug\net5.0\Energy Drinks.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\bin\Debug\net5.0\Energy Drinks.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\bin\Debug\net5.0\Energy Drinks.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\Energy Drinks.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\Energy Drinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\Energy Drinks.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\Energy Drinks.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\Energy Drinks.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\Energy Drinks.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\refint\Energy Drinks.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\Energy Drinks.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\Energy Drinks.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Energy Drinks\obj\Debug\net5.0\ref\Energy Drinks.dll

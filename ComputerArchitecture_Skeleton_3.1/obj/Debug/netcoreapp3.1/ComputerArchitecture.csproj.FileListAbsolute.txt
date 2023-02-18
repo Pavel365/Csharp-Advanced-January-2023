@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\bin\Debug\netcoreapp3.1\ComputerArchitecture.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\bin\Debug\netcoreapp3.1\ComputerArchitecture.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\bin\Debug\netcoreapp3.1\ComputerArchitecture.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\bin\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\bin\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\obj\Debug\netcoreapp3.1\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\obj\Debug\netcoreapp3.1\ComputerArchitecture.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\obj\Debug\netcoreapp3.1\ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\obj\Debug\netcoreapp3.1\ComputerArchitecture.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\obj\Debug\netcoreapp3.1\ComputerArchitecture.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\ComputerArchitecture_Skeleton_3.1\obj\Debug\netcoreapp3.1\ComputerArchitecture.genruntimeconfig.cache

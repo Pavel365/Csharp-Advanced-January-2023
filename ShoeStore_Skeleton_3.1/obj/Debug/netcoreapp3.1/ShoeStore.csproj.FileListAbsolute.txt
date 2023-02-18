@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\bin\Debug\netcoreapp3.1\ShoeStore.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\bin\Debug\netcoreapp3.1\ShoeStore.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\bin\Debug\netcoreapp3.1\ShoeStore.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\bin\Debug\netcoreapp3.1\ShoeStore.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\bin\Debug\netcoreapp3.1\ShoeStore.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\bin\Debug\netcoreapp3.1\ShoeStore.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\obj\Debug\netcoreapp3.1\ShoeStore.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\obj\Debug\netcoreapp3.1\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\obj\Debug\netcoreapp3.1\ShoeStore.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\obj\Debug\netcoreapp3.1\ShoeStore.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\obj\Debug\netcoreapp3.1\ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\obj\Debug\netcoreapp3.1\ShoeStore.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\obj\Debug\netcoreapp3.1\ShoeStore.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\ShoeStore_Skeleton_3.1\obj\Debug\netcoreapp3.1\ShoeStore.genruntimeconfig.cache

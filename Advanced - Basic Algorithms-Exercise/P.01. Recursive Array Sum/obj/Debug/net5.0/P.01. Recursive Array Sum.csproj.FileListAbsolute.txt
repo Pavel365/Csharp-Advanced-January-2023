@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\bin\Debug\net5.0\P.01. Recursive Array Sum.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\bin\Debug\net5.0\P.01. Recursive Array Sum.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\bin\Debug\net5.0\P.01. Recursive Array Sum.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\bin\Debug\net5.0\P.01. Recursive Array Sum.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\bin\Debug\net5.0\P.01. Recursive Array Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\bin\Debug\net5.0\P.01. Recursive Array Sum.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\P.01. Recursive Array Sum.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\P.01. Recursive Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\P.01. Recursive Array Sum.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\P.01. Recursive Array Sum.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\P.01. Recursive Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\P.01. Recursive Array Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\refint\P.01. Recursive Array Sum.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\P.01. Recursive Array Sum.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\P.01. Recursive Array Sum.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Basic Algorithms-Exercise\P.01. Recursive Array Sum\obj\Debug\net5.0\ref\P.01. Recursive Array Sum.dll

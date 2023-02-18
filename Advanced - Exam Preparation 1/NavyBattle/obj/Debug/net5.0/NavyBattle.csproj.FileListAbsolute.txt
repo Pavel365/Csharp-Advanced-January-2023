@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\bin\Debug\net5.0\NavyBattle.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\bin\Debug\net5.0\NavyBattle.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\bin\Debug\net5.0\NavyBattle.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\bin\Debug\net5.0\NavyBattle.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\bin\Debug\net5.0\NavyBattle.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\bin\Debug\net5.0\NavyBattle.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\NavyBattle.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\NavyBattle.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\NavyBattle.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\NavyBattle.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\NavyBattle.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\refint\NavyBattle.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\NavyBattle.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\NavyBattle.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\NavyBattle\obj\Debug\net5.0\ref\NavyBattle.dll

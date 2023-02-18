@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\bin\Debug\net5.0\Help-A-Mole.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\bin\Debug\net5.0\Help-A-Mole.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\bin\Debug\net5.0\Help-A-Mole.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\bin\Debug\net5.0\Help-A-Mole.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\bin\Debug\net5.0\Help-A-Mole.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\bin\Debug\net5.0\Help-A-Mole.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\Help-A-Mole.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\Help-A-Mole.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\Help-A-Mole.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\Help-A-Mole.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\refint\Help-A-Mole.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\Help-A-Mole.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\Help-A-Mole.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation 1\Help-A-Mole\obj\Debug\net5.0\ref\Help-A-Mole.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\bin\Debug\net5.0\Rally Racing.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\bin\Debug\net5.0\Rally Racing.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\bin\Debug\net5.0\Rally Racing.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\bin\Debug\net5.0\Rally Racing.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\bin\Debug\net5.0\Rally Racing.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\bin\Debug\net5.0\Rally Racing.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\Rally Racing.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\Rally Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\Rally Racing.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\Rally Racing.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\Rally Racing.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\Rally Racing.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\refint\Rally Racing.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\Rally Racing.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\Rally Racing.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Exam Preparation\Rally Racing\obj\Debug\net5.0\ref\Rally Racing.dll

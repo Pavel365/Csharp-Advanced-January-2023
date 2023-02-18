@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energy Drinks", "Energy Drinks\Energy Drinks.csproj", "{9BF84CF6-DE9A-4340-B4B8-4CC91E90E85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rally Racing", "Rally Racing\Rally Racing.csproj", "{7F6DE809-F98B-471C-AEA6-28247B4C2321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF84CF6-DE9A-4340-B4B8-4CC91E90E85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF84CF6-DE9A-4340-B4B8-4CC91E90E85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF84CF6-DE9A-4340-B4B8-4CC91E90E85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF84CF6-DE9A-4340-B4B8-4CC91E90E85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6DE809-F98B-471C-AEA6-28247B4C2321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6DE809-F98B-471C-AEA6-28247B4C2321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6DE809-F98B-471C-AEA6-28247B4C2321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6DE809-F98B-471C-AEA6-28247B4C2321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D18A97-F58A-44C0-8F45-665DDDD1CB15}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\bin\Debug\netcoreapp3.1\SumOfCoins.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\bin\Debug\netcoreapp3.1\SumOfCoins.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\bin\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\bin\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\obj\Debug\netcoreapp3.1\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\obj\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\obj\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\SumOfCoins_Skeleton_3.1\obj\Debug\netcoreapp3.1\SumOfCoins.genruntimeconfig.cache
