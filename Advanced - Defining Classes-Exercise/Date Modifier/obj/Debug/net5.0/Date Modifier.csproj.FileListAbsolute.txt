@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\bin\Debug\net5.0\Date Modifier.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\bin\Debug\net5.0\Date Modifier.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\bin\Debug\net5.0\Date Modifier.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\bin\Debug\net5.0\Date Modifier.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\bin\Debug\net5.0\Date Modifier.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\bin\Debug\net5.0\Date Modifier.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\Date Modifier.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\Date Modifier.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\Date Modifier.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\Date Modifier.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\refint\Date Modifier.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\Date Modifier.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\Date Modifier.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\Date Modifier\obj\Debug\net5.0\ref\Date Modifier.dll

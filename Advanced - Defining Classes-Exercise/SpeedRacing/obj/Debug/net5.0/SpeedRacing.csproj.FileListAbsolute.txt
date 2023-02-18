@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\refint\SpeedRacing.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\SpeedRacing\obj\Debug\net5.0\ref\SpeedRacing.dll

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\CarManufacturer.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\bin\Debug\net5.0\CarManufacturer.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\bin\Debug\net5.0\CarManufacturer.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\bin\Debug\net5.0\CarManufacturer.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\bin\Debug\net5.0\CarManufacturer.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\bin\Debug\net5.0\CarManufacturer.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\bin\Debug\net5.0\CarManufacturer.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\CarManufacturer.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\refint\CarManufacturer.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\CarManufacturer.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\CarManufacturer.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Lab\CarManufacturer\obj\Debug\net5.0\ref\CarManufacturer.dll

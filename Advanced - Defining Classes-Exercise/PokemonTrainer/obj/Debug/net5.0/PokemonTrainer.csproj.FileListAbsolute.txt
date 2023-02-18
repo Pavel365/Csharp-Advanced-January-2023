@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\bin\Debug\net5.0\PokemonTrainer.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\bin\Debug\net5.0\PokemonTrainer.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\bin\Debug\net5.0\PokemonTrainer.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\bin\Debug\net5.0\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\bin\Debug\net5.0\PokemonTrainer.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\bin\Debug\net5.0\PokemonTrainer.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\PokemonTrainer.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\PokemonTrainer.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\PokemonTrainer.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\refint\PokemonTrainer.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\PokemonTrainer.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\PokemonTrainer.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Defining Classes-Exercise\PokemonTrainer\obj\Debug\net5.0\ref\PokemonTrainer.dll

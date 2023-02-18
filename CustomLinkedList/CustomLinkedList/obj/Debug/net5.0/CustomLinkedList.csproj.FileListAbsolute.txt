@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\bin\Debug\net5.0\CustomLinkedList.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\refint\CustomLinkedList.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\CustomLinkedList.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\CustomLinkedList\CustomLinkedList\obj\Debug\net5.0\ref\CustomLinkedList.dll
