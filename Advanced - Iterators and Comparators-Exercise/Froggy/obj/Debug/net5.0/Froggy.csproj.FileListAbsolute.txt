@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\bin\Debug\net5.0\Froggy.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\bin\Debug\net5.0\Froggy.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\bin\Debug\net5.0\Froggy.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\bin\Debug\net5.0\Froggy.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\bin\Debug\net5.0\Froggy.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\bin\Debug\net5.0\Froggy.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\Froggy.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\Froggy.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\Froggy.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\Froggy.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\refint\Froggy.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\Froggy.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\Froggy.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\Froggy\obj\Debug\net5.0\ref\Froggy.dll

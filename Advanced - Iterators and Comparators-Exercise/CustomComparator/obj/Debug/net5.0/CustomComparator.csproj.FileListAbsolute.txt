@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\bin\Debug\net5.0\CustomComparator.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\bin\Debug\net5.0\CustomComparator.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\bin\Debug\net5.0\CustomComparator.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\bin\Debug\net5.0\CustomComparator.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\bin\Debug\net5.0\CustomComparator.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\bin\Debug\net5.0\CustomComparator.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\CustomComparator.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\CustomComparator.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\CustomComparator.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\refint\CustomComparator.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\CustomComparator.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\CustomComparator.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\CustomComparator\obj\Debug\net5.0\ref\CustomComparator.dll

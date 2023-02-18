@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\bin\Debug\net5.0\IteratorsAndComparators.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\bin\Debug\net5.0\IteratorsAndComparators.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\bin\Debug\net5.0\IteratorsAndComparators.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\bin\Debug\net5.0\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\bin\Debug\net5.0\IteratorsAndComparators.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\bin\Debug\net5.0\IteratorsAndComparators.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\IteratorsAndComparators.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\IteratorsAndComparators.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\refint\IteratorsAndComparators.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\IteratorsAndComparators.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\IteratorsAndComparators.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Lab\IteratorsAndComparators\obj\Debug\net5.0\ref\IteratorsAndComparators.dll

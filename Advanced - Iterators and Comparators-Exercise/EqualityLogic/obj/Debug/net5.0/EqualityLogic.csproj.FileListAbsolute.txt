@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\net5.0\EqualityLogic.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\net5.0\EqualityLogic.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\net5.0\EqualityLogic.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\net5.0\EqualityLogic.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\net5.0\EqualityLogic.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\bin\Debug\net5.0\EqualityLogic.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\EqualityLogic.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\EqualityLogic.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\refint\EqualityLogic.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\EqualityLogic.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\EqualityLogic.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Iterators and Comparators-Exercise\EqualityLogic\obj\Debug\net5.0\ref\EqualityLogic.dll
