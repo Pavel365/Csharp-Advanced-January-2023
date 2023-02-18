@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\bin\Debug\net5.0\P.04. Find Evens or Odds.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\bin\Debug\net5.0\P.04. Find Evens or Odds.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\bin\Debug\net5.0\P.04. Find Evens or Odds.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\bin\Debug\net5.0\P.04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\bin\Debug\net5.0\P.04. Find Evens or Odds.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\bin\Debug\net5.0\P.04. Find Evens or Odds.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\P.04. Find Evens or Odds.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\P.04. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\P.04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\P.04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\P.04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\P.04. Find Evens or Odds.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\refint\P.04. Find Evens or Odds.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\P.04. Find Evens or Odds.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\P.04. Find Evens or Odds.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.04. Find Evens or Odds\obj\Debug\net5.0\ref\P.04. Find Evens or Odds.dll

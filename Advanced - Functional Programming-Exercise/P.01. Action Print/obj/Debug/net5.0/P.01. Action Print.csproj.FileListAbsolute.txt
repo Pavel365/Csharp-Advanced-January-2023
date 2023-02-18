@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\bin\Debug\net5.0\P.01. Action Print.exe
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\bin\Debug\net5.0\P.01. Action Print.deps.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\bin\Debug\net5.0\P.01. Action Print.runtimeconfig.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\bin\Debug\net5.0\P.01. Action Print.runtimeconfig.dev.json
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\bin\Debug\net5.0\P.01. Action Print.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\bin\Debug\net5.0\P.01. Action Print.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\P.01. Action Print.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\P.01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\P.01. Action Print.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\P.01. Action Print.AssemblyInfo.cs
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\P.01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\P.01. Action Print.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\refint\P.01. Action Print.dll
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\P.01. Action Print.pdb
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\P.01. Action Print.genruntimeconfig.cache
+C:\Users\user\Documents\Програмиране\C# Advanced\Advanced - Functional Programming-Exercise\P.01. Action Print\obj\Debug\net5.0\ref\P.01. Action Print.dll
